@@ -1,0 +1,11 @@
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net9.0\EntityFrameworkCore.Domain.deps.json
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net9.0\EntityFrameworkCore.Domain.dll
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net9.0\EntityFrameworkCore.Domain.pdb
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.dll
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\refint\EntityFrameworkCore.Domain.dll
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.pdb
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\ref\EntityFrameworkCore.Domain.dll

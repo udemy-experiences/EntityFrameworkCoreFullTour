@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F1EC82-3B7A-4DA1-9769-C45612183593}|EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj|c:\\users\\yazan\\onedrive\\documents\\github\\entityframeworkcore\\entityframeworkcore.data\\footballleaguedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F1EC82-3B7A-4DA1-9769-C45612183593}|EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj|solutionrelative:entityframeworkcore.data\\footballleaguedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CAB9FC2-083B-4B2F-8843-F6E68D1D244B}|EntityFrameworkCore.Domain\\EntityFrameworkCore.Domain.csproj|c:\\users\\yazan\\onedrive\\documents\\github\\entityframeworkcore\\entityframeworkcore.domain\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CAB9FC2-083B-4B2F-8843-F6E68D1D244B}|EntityFrameworkCore.Domain\\EntityFrameworkCore.Domain.csproj|solutionrelative:entityframeworkcore.domain\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F1EC82-3B7A-4DA1-9769-C45612183593}|EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj|c:\\users\\yazan\\onedrive\\documents\\github\\entityframeworkcore\\entityframeworkcore.data\\footballleaguedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F1EC82-3B7A-4DA1-9769-C45612183593}|EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj|solutionrelative:entityframeworkcore.data\\footballleaguedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F1EC82-3B7A-4DA1-9769-C45612183593}|EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj|c:\\users\\yazan\\onedrive\\documents\\github\\entityframeworkcore\\entityframeworkcore.data\\footballleaguesqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F1EC82-3B7A-4DA1-9769-C45612183593}|EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj|solutionrelative:entityframeworkcore.data\\footballleaguesqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F1EC82-3B7A-4DA1-9769-C45612183593}|EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj|c:\\users\\yazan\\onedrive\\documents\\github\\entityframeworkcore\\entityframeworkcore.data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50F1EC82-3B7A-4DA1-9769-C45612183593}|EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj|solutionrelative:entityframeworkcore.data\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F1EC82-3B7A-4DA1-9769-C45612183593}|EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj|c:\\users\\yazan\\onedrive\\documents\\github\\entityframeworkcore\\entityframeworkcore.data\\entityframeworkcore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50F1EC82-3B7A-4DA1-9769-C45612183593}|EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj|solutionrelative:entityframeworkcore.data\\entityframeworkcore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F1EC82-3B7A-4DA1-9769-C45612183593}|EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj|c:\\users\\yazan\\onedrive\\documents\\github\\entityframeworkcore\\entityframeworkcore.data\\migrations\\20250430150304_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F1EC82-3B7A-4DA1-9769-C45612183593}|EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj|solutionrelative:entityframeworkcore.data\\migrations\\20250430150304_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "League.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Domain\\League.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore.Domain\\League.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Domain\\League.cs",
+              "RelativeToolTip": "EntityFrameworkCore.Domain\\League.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:42:46.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250430150304_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Data\\Migrations\\20250430150304_Initial Migration.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore.Data\\Migrations\\20250430150304_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Data\\Migrations\\20250430150304_Initial Migration.cs",
+              "RelativeToolTip": "EntityFrameworkCore.Data\\Migrations\\20250430150304_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:03:04.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityFrameworkCore.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj",
+              "RelativeDocumentMoniker": "EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj",
+              "RelativeToolTip": "EntityFrameworkCore.Data\\EntityFrameworkCore.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T14:42:38.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Data\\appsettings.json",
+              "RelativeDocumentMoniker": "EntityFrameworkCore.Data\\appsettings.json",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Data\\appsettings.json",
+              "RelativeToolTip": "EntityFrameworkCore.Data\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T14:50:52.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FootballLeagueDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Data\\FootballLeagueDbContextFactory.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore.Data\\FootballLeagueDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Data\\FootballLeagueDbContextFactory.cs",
+              "RelativeToolTip": "EntityFrameworkCore.Data\\FootballLeagueDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:44:04.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FootballLeagueDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Data\\FootballLeagueDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore.Data\\FootballLeagueDbContext.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Data\\FootballLeagueDbContext.cs",
+              "RelativeToolTip": "EntityFrameworkCore.Data\\FootballLeagueDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:06:12.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FootballLeagueSqlServerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Data\\FootballLeagueSqlServerDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore.Data\\FootballLeagueSqlServerDbContext.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Data\\FootballLeagueSqlServerDbContext.cs",
+              "RelativeToolTip": "EntityFrameworkCore.Data\\FootballLeagueSqlServerDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:06:17.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

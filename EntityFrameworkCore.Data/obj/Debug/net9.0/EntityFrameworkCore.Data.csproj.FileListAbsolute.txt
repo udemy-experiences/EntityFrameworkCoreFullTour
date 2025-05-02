@@ -1,0 +1,17 @@
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFrameworkCore.Data.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFrameworkCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFrameworkCore.Data.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFrameworkCore.Data.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFrameworkCore.Data.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\bin\Debug\net9.0\EntityFrameworkCore.Data.deps.json
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\bin\Debug\net9.0\EntityFrameworkCore.Data.dll
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\bin\Debug\net9.0\EntityFrameworkCore.Data.pdb
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\bin\Debug\net9.0\EntityFrameworkCore.Domain.dll
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\bin\Debug\net9.0\EntityFrameworkCore.Domain.pdb
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFr.5ED7C83B.Up2Date
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFrameworkCore.Data.dll
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net9.0\refint\EntityFrameworkCore.Data.dll
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFrameworkCore.Data.pdb
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net9.0\ref\EntityFrameworkCore.Data.dll
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\bin\Debug\net9.0\EntityFrameworkCore.Data.runtimeconfig.json
+C:\Users\yazan\OneDrive\Documents\GitHub\EntityFrameworkCore\EntityFrameworkCore.Data\obj\Debug\net9.0\EntityFrameworkCore.Data.genruntimeconfig.cache
