@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Console\\EntityFrameworkCore.Console.csproj": {}
+    "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Api\\EntityFrameworkCore.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Console\\EntityFrameworkCore.Console.csproj": {
+    "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Api\\EntityFrameworkCore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Console\\EntityFrameworkCore.Console.csproj",
-        "projectName": "EntityFrameworkCore.Console",
-        "projectPath": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Console\\EntityFrameworkCore.Console.csproj",
+        "projectUniqueName": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Api\\EntityFrameworkCore.Api.csproj",
+        "projectName": "EntityFrameworkCore.Api",
+        "projectPath": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Api\\EntityFrameworkCore.Api.csproj",
         "packagesPath": "C:\\Users\\yazan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Console\\obj\\",
+        "outputPath": "C:\\Users\\yazan\\OneDrive\\Documents\\GitHub\\EntityFrameworkCore\\EntityFrameworkCore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -54,17 +54,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[9.0.2, )"
             }
           },
           "imports": [
@@ -79,6 +71,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
